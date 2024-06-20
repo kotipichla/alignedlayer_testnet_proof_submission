@@ -76,6 +76,7 @@ Use the explorer link in CMD to check if verified and you'll also see below imag
 
 --------------------------
 ### Submit in Discord 
+![image](https://github.com/kotipichla/alignedlayer_testnet_proof_submission/assets/152254884/071a8ce4-cdc3-4e41-ae22-6386053ac90c)
 
 
 # JOIN DISCORD FROM PROFILE 
