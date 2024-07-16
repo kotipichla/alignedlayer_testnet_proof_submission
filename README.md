@@ -3,6 +3,7 @@
 ![image](https://github.com/kotipichla/alignedlayer_testnet_proof_submission/assets/152254884/40028b04-deb9-47a5-8176-ffa6aef8f02b)
 
 
+
 ## Getting Srtarted 
 
 ```
@@ -34,6 +35,7 @@ source /root/.bashrc
 ```
 curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batcher/aligned/get_proof_test_files.sh | bash
 ```
+
 
 
 ### Sending proof 
